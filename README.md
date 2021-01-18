@@ -4,7 +4,7 @@ The object of Risk is to control all 29 territories of the world.Territories are
 ![map](resource/images/Rules/mapForRules.png)
 
 You need at least 2 Players(Generals) to play the game, all of them must be a human General. Create your own to play against other people at the this computer. The order in which you select the Generals will be the order they appear in the game. 
-![Start new game](resource/images/Rules/newGame.png)
+![Start new game](resource/images/Rules/newGame.PNG)
 
 With **Random Deal**, the computer assign lands to each player. Then, each player claims one land at a time by placing a soldier on its land. Once all lands are claimed, players reinforce their lands with any remaining soldiers and awarding soldiers.
 ![Random deal](resource/images/Rules/randomDeal.PNG)
