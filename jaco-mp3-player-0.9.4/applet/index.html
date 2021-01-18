@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>JACo MP3 Player ( java mp3 player )</title>
+</head>
+
+<body>
+
+<div style="text-align: center;padding-top: 50px">
+
+	<script type="text/javascript" src="js/deployJava.js"></script>
+	
+	<script type="text/javascript">
+	
+	    var attributes = {
+	
+	            code            : "jaco.mp3.player.MP3PlayerApplet.class",
+	            archive         : "../lib/jaco-mp3-player-0.9.4.jar",
+	            width           : "86",
+	            height          : "16"
+	        };
+	
+	    var parameters = {
+	
+	            separate_jvm    : "true",
+	            codebase_lookup : "true",
+	
+	            background      : "0xFFFFFF",
+	            compact         : "false",
+	            playlist        : "playlist/Prop_P51_Pass1.mp3, playlist/train_crossing.mp3, playlist/bosco.mp3"
+	        };
+	
+	    var version = "1.6";
+	
+	    deployJava.runApplet(attributes, parameters, version);
+	
+	</script>
+
+</div>
+
+</body>
+</html>
