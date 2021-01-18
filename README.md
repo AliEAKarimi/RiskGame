@@ -19,11 +19,11 @@ Choose a land with 2 or more soldiers to attack an enemy in an adjacent land. La
 ![Attack](resource\images\Rules\attack.PNG)
 
 You may end an attack at any time by pressing the Retreat button, and you may start an attack by pressing the Roll button, then you may click on the Again button for attack again.
-![Roll](resource\images\Rules\roll.PNG)
+![Roll](resource/images/Rules/roll.PNG)
 
 You win the invasion when you defeat the last defending soldier from a land. The soldiers used to win the battle automatically move to the land you invaded.
 
 After you have finished attacking, you get many 'free move' to fortify (or redeploy) soldiers from one land to another. To fortify your position, take as many soldiers as you`d like from one of your as land and move them to a connected land.Lands are connected if all the lands in between are also controlled by you. You must leave at least one soldier behind-you cannot abandon a land.
-![Fortify](resource\images\Rules\fortify.PNG)
+![Fortify](resource/images/Rules/fortify.PNG)
 
 Eliminate other players by defeating their last remaining land.
